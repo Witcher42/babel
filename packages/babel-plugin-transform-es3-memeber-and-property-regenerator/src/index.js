@@ -25,8 +25,8 @@ export default function ({ types: t }) {
   return {
     visitor: {
       Program: {
-        exit({ node }) {
-          node.traverse(aVisitor);
+        exit(path) {
+          path.traverse(aVisitor);
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "name": "babel-plugin-transform-es3-memeber-and-property-regenerator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ensure that reserved words are quoted at last",
-  "repository": "https://github.com/witcher42/babel/tree/master/packages/babel-plugin-transform-es3-memeber-and-property-regenerator",
+  "repository": "https://github.com/Witcher42/babel/tree/master/packages/babel-plugin-transform-es3-memeber-and-property-regenerator",
   "license": "MIT",
   "main": "lib/index.js",
   "keywords": [
